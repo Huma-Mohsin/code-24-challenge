@@ -1,0 +1,27 @@
+From this practicing, we concludedd that:-
+
+1- when any variable create with using let and const keywords, they can only be accessed within a block.
+
+2- when any variable declared with using let and const keywords,they cannot be accessed out of block, compiler doesnot interpret them and throw an error.
+
+//Advantages of these let and const keyword :-
+
+1-Clarity and Readability:
+
+Explicit declaration enhances code readability and understanding, making code easier to maintain.
+
+2-Safer Code: 
+
+Reduces the risk of naming conflicts and unintended side effects, resulting in safer and more predictable code.
+
+3- No Redeclaration: 
+
+Variables can't be redeclared within the same scope, reducing errors and promoting cleaner code.
+
+and so only.
+
+
+
+
+
+
